@@ -18,3 +18,7 @@ atau
 # Update
 
 ![nyalain ini](https://media.discordapp.net/attachments/958987119500607558/960115704038817792/unknown.png)
+
+## Image
+
+![nyalain ini](https://media.discordapp.net/attachments/958987119500607558/960122534576160798/unknown.png?width=810&height=466)
