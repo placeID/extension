@@ -11,6 +11,8 @@ atau
 [chrome](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo) |
 [firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) |
 
+[violentmonkey](https://discord.com/channels/@me/960092572066381844/960124671364309132)
+
 ## Klik ini untuk [Install](https://github.com/placeID/extension/raw/main/PlaceID.user.js)
 
 # Update
