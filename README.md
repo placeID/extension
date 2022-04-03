@@ -19,6 +19,15 @@ atau
 
 ![nyalain ini](https://media.discordapp.net/attachments/958987119500607558/960115704038817792/unknown.png)
 
+### Manual Update
+
+Pencet Extensionnya, terus expand script yang nyala & tekan edit:
+![buka & edit](https://i.imgur.com/XPYdtrw.png)
+
+Terus rubah bagian ini dengan link baru yang sudah disebar
+
+![image](https://user-images.githubusercontent.com/102897181/161433016-80c5deae-d940-4ac2-a4c1-ded58b1c5212.png)
+
 ## Image
 
 ![nyalain ini](https://media.discordapp.net/attachments/958987119500607558/960122534576160798/unknown.png?width=810&height=466)
