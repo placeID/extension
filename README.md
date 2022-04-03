@@ -22,6 +22,7 @@ atau
 ### Manual Update
 
 Pencet Extensionnya, terus expand script yang nyala & tekan edit:
+
 ![buka & edit](https://i.imgur.com/XPYdtrw.png)
 
 Terus rubah bagian ini dengan link baru yang sudah disebar
